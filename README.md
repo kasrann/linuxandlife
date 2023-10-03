@@ -12,7 +12,7 @@
 
 # Usage:
 Each article should have this header:
-```
+```efwwq
 ---
 layout: article
 chapter: "the name of current chapter"
